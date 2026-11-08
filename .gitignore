@@ -1,0 +1,6 @@
+tools/
+*.zip
+*.log
+__pycache__/
+*.bak
+*.bak-*

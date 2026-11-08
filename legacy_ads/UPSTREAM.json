@@ -1,0 +1,9 @@
+{
+  "source": "previous verified implementation",
+  "sha256": {
+    "adseat3.py": "61095348cd71b15dcd5814632a54223d1bd28edb6a89225dbbe812237edcd501",
+    "dev.py": "d62378c3cce3cb85f245a6bca5e66f2181da79c8ca8c93b9fbcd1255278e2f70",
+    "core.py": "bd24a44363859e2412374f40145a5a2bab473d32b1a801cb50b82d6bbe50ba1f",
+    "ocrboard.py": "6b9fe5b9b1ba780b1ab6f4f0c50271da46b49b1bb0286dd5b6c3ce4de75abb14"
+  }
+}
